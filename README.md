@@ -1,5 +1,5 @@
 <h1 align="center">Hey! 👋, I'm Rezwana</h1> 
-<h3 align="center">A Software Quality Assurance Engineer</h3>
+<h3 align="center">Software Quality Assurance Engineer</h3>
 
 ---
 
